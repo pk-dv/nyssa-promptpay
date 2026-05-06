@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nyssa-promptpay/static/css/main.5a762070.css",
+    "main.js": "/nyssa-promptpay/static/js/main.a4d6f708.js",
+    "static/js/453.53596196.chunk.js": "/nyssa-promptpay/static/js/453.53596196.chunk.js",
+    "index.html": "/nyssa-promptpay/index.html",
+    "main.5a762070.css.map": "/nyssa-promptpay/static/css/main.5a762070.css.map",
+    "main.a4d6f708.js.map": "/nyssa-promptpay/static/js/main.a4d6f708.js.map",
+    "453.53596196.chunk.js.map": "/nyssa-promptpay/static/js/453.53596196.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a762070.css",
+    "static/js/main.a4d6f708.js"
+  ]
+}
