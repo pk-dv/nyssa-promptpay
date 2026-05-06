@@ -99,7 +99,7 @@ function MainScreen() {
                 return;
             }
             navigator.clipboard.writeText(accountNumber);
-            success(`คัดลอก ${accountNumber} เรียบร้อย ✅`);
+            success(`คัดลอก ${accountNumber} เรียบร้อย`);
         } catch (e) {
             error("ไม่สามารถคัดลอกได้");
         }
